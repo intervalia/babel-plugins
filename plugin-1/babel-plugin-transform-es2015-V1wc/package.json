@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "babel-helper-define-map": "^6.24.1",
+    "babel-helper-function-name": "^6.24.1",
+    "babel-helper-optimise-call-expression": "^6.24.1",
+    "babel-helper-replace-supers": "^6.24.1",
+    "babel-messages": "^6.23.0",
+    "babel-runtime": "^6.22.0",
+    "babel-template": "^6.24.1",
+    "babel-traverse": "^6.24.1",
+    "babel-types": "^6.24.1"
+  },
+  "description": "Compile ES2015 V1 Web Components to ES5",
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.24.1"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "Michael Collins",
+      "email": "intervalia@gmail.com"
+    }
+  ],
+  "name": "babel-plugin-transform-es2015-V1wc",
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.0"
+}
